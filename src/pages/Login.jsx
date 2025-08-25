@@ -48,6 +48,11 @@ const Login = () => {
           required
         />
 
+        <div className="demo-credentials">
+          <p><strong>Demo Username:</strong> johnd</p>
+          <p><strong>Demo Password:</strong> m38rmF$</p>
+        </div>
+
         <button type="submit">Login</button>
       </form>
     </div>
